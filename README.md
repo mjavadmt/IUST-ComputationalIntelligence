@@ -4,8 +4,9 @@ This repository contains computational intelligence course assignment
 ## RBF
 Radial Basis Function is one of the implementation of neural network. It will be useful where our problem space is curvy or in a circular form. In this assigment I tried to guess Sinus function value based on RBF approach. Below shape how well RBF method can conform Sinus function.
 
-![RBF](rbf.png)
-
+<p align="center">
+<img src="./rbf.png" width="200" height="200">
+</p>
 
 ## Genetic Algorithm
 Defining polynominal equation and then try to guess the root of this equation with genetic algorithm. To solve this equation I set some fitness function to evaluate the result generated. I defined cross over and mutation function to randomly generate new population. For training phase I initialzed chromose to be about 600 and let them explore the possible values to find the best fitness function.
