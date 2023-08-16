@@ -5,7 +5,7 @@ This repository contains computational intelligence course assignment
 Radial Basis Function is one of the implementation of neural network. It will be useful where our problem space is curvy or in a circular form. In this assigment I tried to guess Sinus function value based on RBF approach. Below shape how well RBF method can conform Sinus function.
 
 <p align="center">
-<img src="./rbf.png" width="200" height="200">
+<img src="./rbf.png" width="400" height="400">
 </p>
 
 ## Genetic Algorithm
